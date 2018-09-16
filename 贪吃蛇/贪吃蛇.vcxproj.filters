@@ -14,4 +14,34 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="贪吃蛇.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\库文件\头文件库\c++ 栈\Stack.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chain_.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue_cha.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
